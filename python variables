@@ -1,0 +1,7 @@
+#python variables
+x=5
+y=6
+print(x)
+print(y)
+
+#block er sequence maintain korte hbe
