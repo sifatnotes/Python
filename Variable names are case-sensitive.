@@ -1,0 +1,5 @@
+#Variable names are case-sensitive.
+x= "sifat"
+X= 5
+print (x,X)
+#x will overwrite X
