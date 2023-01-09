@@ -1,0 +1,9 @@
+x = "awesome"
+
+def sifat():
+ x = "fantastic"
+print("Python is " + x)
+
+sifat()
+
+print("Python is " + x)
