@@ -1,0 +1,16 @@
+x = 5
+print(type(x))
+q= "ssd"
+print (type(q))
+w= 20.5
+print (type(w))
+r=["a","b","c"]
+print (type(r))
+t=("j","s","l")
+print (print (t))
+u=range(4)
+print (type(u))
+i={"X","r","j"}
+print (type(i))
+x= True
+print (type(x))
