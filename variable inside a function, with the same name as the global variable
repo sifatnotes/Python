@@ -5,5 +5,4 @@ def sifat():
 print("Python is " + x)
 
 sifat()
-
 print("Python is " + x)
