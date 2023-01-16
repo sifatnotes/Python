@@ -1,1 +1,5 @@
 print("sifat")
+print('sifat')
+
+"""String = in python string is acollection of character
+inside Double quotes or single quptes""" 
