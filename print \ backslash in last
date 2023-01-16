@@ -1,0 +1,4 @@
+print ("sifat")
+print("This is backslash \\")
+
+#here \\ means \ single backslash
