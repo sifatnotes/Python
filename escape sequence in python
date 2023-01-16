@@ -1,0 +1,10 @@
+#escape secuence
+print("i am \"sifat\" sifat")
+
+""" some escapse sequences
+\' = single quote
+\" = double quote
+\\=backslash
+\n= new line
+\t =tab
+\b = backspace """
