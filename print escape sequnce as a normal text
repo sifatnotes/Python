@@ -1,0 +1,3 @@
+print (r"line a \n line b")
+
+if we user r before printf we can use any escape sequence as normal text
