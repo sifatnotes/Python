@@ -1,0 +1,12 @@
+#variable in python
+number1= 2
+print (number1)
+number1=4
+print(number1)
+#string,number 
+#if we want to print any name or something we have to use double quate
+
+"""variable rules
+we cant start number{we can  use it in the middle or last}
+we can use underscore_
+we cant any special symbol $.&{anywhere}"""
