@@ -7,3 +7,5 @@ print(8**0.5) # root korte chaile
 #round any value
 print (round (2**0.5,4))
 print(2%5)
+
+
